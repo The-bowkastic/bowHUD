@@ -3017,6 +3017,8 @@ Scheme
 			}
 		}
 		
+		//Ey, these are my fonts for my custom HUD, aight? Don't come 'ere thinkin' that these are regular ol' fonts, cuz they're naught.
+		
 		MontExtraLight12
 		{
 			"1"
@@ -3046,9 +3048,111 @@ Scheme
 				"antialias" "1"
 			}
 		}
-	}
+		
+		MontExtraLight32
+		{
+			"1"
+			{
+				"name"		"Mont ExtraLight DEMO"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		MontExtraLight36
+		{
+			"1"
+			{
+				"name"		"Mont ExtraLight DEMO"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		MontExtraLight42
+		{
+			"1"
+			{
+				"name"		"Mont ExtraLight DEMO"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		//Aight, so now these one are bold as 'ell. But again, don' confuse 'em with regular fonts, nor the light fonts. These bad-boys are bold.
+		
+		MontHeavy12
+		{
+			"1"
+			{
+				"name"		"Mont Heavy DEMO"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		MontHeavy16
+		{
+			"1"
+			{
+				"name"		"Mont Heavy DEMO"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		MontHeavy24
+		{
+			"1"
+			{
+				"name"		"Mont Heavy DEMO"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		MontHeavy32
+		{
+			"1"
+			{
+				"name"		"Mont Heavy DEMO"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		MontHeavy36
+		{
+			"1"
+			{
+				"name"		"Mont Heavy DEMO"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		MontHeavy42
+		{
+			"1"
+			{
+				"name"		"Mont Heavy DEMO"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		MontHeavy56
+		{
+			"1"
+			{
+				"name"		"Mont Heavy DEMO"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+	}   
     
-	//Ey, these are my fonts for my custom HUD, aight? Don't come 'ere thinkin' that these are regular ol' fonts, cuz they're naught.
+	     
 	
 	
 	
