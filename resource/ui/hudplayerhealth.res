@@ -90,8 +90,8 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"TeamIndicator"
-		"xpos"			"85"
-		"ypos"			"80"
+		"xpos"			"84"
+		"ypos"			"75"
 		"zpos"			"2"
 		"wide"			"60"
 		"tall"	 		"3"
@@ -109,6 +109,23 @@
 		"src_corner_width"		"40"			
 		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"0"	
+	}
+    "PlayerStatusHealthValueBG"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValueBG"
+		"xpos"			"-8"
+		"ypos"			"2"	
+		"ypos"			"55"
+		"zpos"			"5"
+		"wide"			"250"
+		"tall"			"120"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"textAlignment"	"center"	
+		"font"			"MontHeavy42"
+		"fgcolor"		"0 0 0 255"
 	}
 	"PlayerStatusMaxHealthValue"
 	{
@@ -139,7 +156,7 @@
 		"wide"			"32"
 		"tall"			"32"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"scaleImage"	"1"	
 		"image"			"../vgui/bleed_drop"
 		"fgcolor"		"TanDark"
